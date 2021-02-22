@@ -6,18 +6,22 @@
   text-align: left;
 }
 
-.section--h1 {
+.section__h1 {
   text-align: center;
   font-size: 22px;
   color:hsl(0, 0%, 100%);
 }
 
-.section--paragraph {
+.section__paragraph {
   font-size: 20px;
   padding: 5px;
 }
 
-.section--paragraph--white {
+.section__paragraph--white {
+  color:hsl(0, 0%, 100%);
+}
+
+.section__span--white {
   color:hsl(0, 0%, 100%);
 }
 
